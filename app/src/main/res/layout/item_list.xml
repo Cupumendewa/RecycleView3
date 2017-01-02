@@ -62,8 +62,8 @@
         <ImageButton
             android:id="@+id/buttonFavorite"
             android:layout_marginRight="16dp"
-            android:layout_below="@id/textViewDeskripsi"
-            android:layout_toLeftOf="@id/buttonShare"
+            android:layout_below="@+id/textViewDeskripsi"
+            android:layout_toLeftOf="@+id/buttonShare"
             android:layout_width="48dp"
             android:layout_height="48dp"
             android:tint="#757575"
